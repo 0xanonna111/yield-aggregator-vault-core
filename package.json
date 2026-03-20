@@ -1,0 +1,8 @@
+{
+  "name": "yield-aggregator-vault",
+  "version": "1.0.0",
+  "description": "ERC-4626 Compliant Yield Aggregator",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
